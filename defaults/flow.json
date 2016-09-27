@@ -576,7 +576,7 @@
     "z": "355ec60c.807a7a",
     "name": "IBM IoT",
     "keepalive": "60",
-    "cleansession": true
+    "cleansession": true,
     "x": 390,
     "y": 480,
     "wires": [
