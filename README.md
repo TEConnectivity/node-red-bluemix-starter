@@ -15,7 +15,7 @@ for your application at which point the platform takes over, grabs the code from
 this repository and gets it deployed.
 
 It will automatically create an instance of the Cloudant service, call it
-`sample-node-red-cloudantNoSQLDB` and bind it to you app. This is where your
+`piweathershield-node-red-cloudantNoSQLDB` and bind it to you app. This is where your
 Node-RED instance will store its data. If you deploy multiple instances of
 Node-RED from this repository, they will share the one Cloudant instance.
 
