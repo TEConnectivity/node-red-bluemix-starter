@@ -1,4 +1,4 @@
-Node-RED Bluemix Starter Application
+Pi Weather Shield Node-RED Bluemix Starter Application
 ====================================
 
 ### Node-RED in BlueMix
